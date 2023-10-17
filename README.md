@@ -100,7 +100,7 @@ while True:
 
 # PRUEBAS
 
-![Imagen_Prueba1]()
+![Imagen_Prueba1](https://github.com/antsz25/2.1HolaMundoYNTP/blob/main/Prueba.jpg)
 
 # CONCLUSIONES
-Realizar animaciones dentro de una OLED tiende a ser un poco complicado, especialmente con la resolución de las imagenes que se subirán a la oled. Es necesario crear imagenes que estén en la resolución específica para poder mostrarse en la OLED.
+Para ser una primera práctica es entretenido. La utilización del módulo de Wifi de la raspberry es de suma utilidad, ya que ahorra dinero y espacio en la utilización de otro módulo externo para poder cumplir con lo deseado. 
